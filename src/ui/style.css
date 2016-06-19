@@ -1,0 +1,16 @@
+GtkWindow {
+    background-color: blue;
+}
+
+.meterContainer {
+    background-color: black;
+}
+
+.meterValue {
+    color: green;
+    font: Verdana 10;
+}
+
+.meterValueBigFont {
+    font: Verdana 20;
+}
